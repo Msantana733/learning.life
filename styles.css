@@ -18,3 +18,13 @@ iframe{
   max-height: 100vh;
   
 }
+
+.status-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 175px;
+  background: red;
+  font-size: 3em;
+  text-shadow: 4px 6px 0px #000000;
+}
